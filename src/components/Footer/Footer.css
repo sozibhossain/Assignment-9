@@ -1,0 +1,14 @@
+.footer{
+    background-color: rgba(153, 175, 111, 0.753);
+    color: #000;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    
+}
+.footer-bottom{
+    background-color: #157347;
+    text-align: center;
+    color: #fff;
+    padding: 5px;
+}

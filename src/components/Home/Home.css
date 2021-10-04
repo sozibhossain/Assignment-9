@@ -1,0 +1,29 @@
+.banner-area{
+    background-color: rgb(162, 177, 94);
+    padding-top: 200px;
+    padding-bottom: 150px;
+}
+.banner-pic img{
+    width: 500px;
+    height: 300px;
+    padding-left: 100px;
+}
+
+
+
+
+.course-title{
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+.course-cart{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding-left:  150px;
+    padding-right:  150px;
+    padding-bottom: 20px;
+    margin-top: 30px;
+
+}

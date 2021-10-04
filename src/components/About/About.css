@@ -1,0 +1,14 @@
+.about-area{
+    background-color: rgba(50, 205, 50, 0.158);
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.feature-area{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.feature{
+    padding: 50px;
+}
