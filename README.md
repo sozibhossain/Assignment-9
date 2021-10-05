@@ -2,8 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Educational website name:
-### Education Center.
+## Educational website name: Education Center.
+
+## Course subject: JavaScript, PHP, Python, React library, Bootstrap Framework, Laravel, CSS, HTML etc.
+
+## Education website Netlify Live link: [https://practical-borg-2319c3.netlify.app/](https://practical-borg-2319c3.netlify.app/).
 
 ## Education description
 No matter what your coding goals are, the best place to start is by building a strong foundation. Similar to a college course, this Path will teach you how to think and code like a professional. You’ll learn Computer Science fundamentals, build a professional portfolio, and prepare for an entry-level role in tech.
